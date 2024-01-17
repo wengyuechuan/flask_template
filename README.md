@@ -9,7 +9,7 @@
 ## Usage
 - Clone this repository.
 ```bash
-git clone
+git clone https://github.com/wengyuechuan/flask_template.git
 ```
 - Install dependencies.
 ```bash
